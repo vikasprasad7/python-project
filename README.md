@@ -1,1 +1,1 @@
-# python-project
+# A python project for analyzing stock performance
